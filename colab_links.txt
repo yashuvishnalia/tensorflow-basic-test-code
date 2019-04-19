@@ -1,1 +1,6 @@
 test code 0 = https://colab.research.google.com/gist/yashuvishnalia/8a2101c45640d3109c0832b62f6ff4c5/colab_test0_nifty.ipynb
+
+test code 1 =
+  1.) for patience 50- min rmse is at around epoch-30 and then epoch-75. So, here if we could save model at different checkpoints then retreive models' weight and save the model with best outcome.
+
+test code 2 = https://colab.research.google.com/drive/1ha_P0rUUtNxhBh-ytBqrmV4Zn8lDmi1f#scrollTo=N_MiGOu-GPRH
